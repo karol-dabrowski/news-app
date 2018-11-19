@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="list_padding">5dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_padding">16dp</dimen>
+    <dimen name="nav_header_text_padding">8dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_item_title_text_size">16sp</dimen>
+    <dimen name="list_item_author_text_size">14sp</dimen>
+    <dimen name="list_item_author_margin_bottom">8dp</dimen>
+    <dimen name="list_item_section_text_size">13sp</dimen>
+    <dimen name="list_item_date_text_size">13sp</dimen>
+</resources>

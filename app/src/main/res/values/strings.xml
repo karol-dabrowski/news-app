@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_nav_1_text">Football</string>
+    <string name="menu_nav_2_text">Games</string>
+    <string name="menu_nav_3_text">Fashion</string>
+
+    <string name="categories_text">Categories</string>
+    <string name="connection_problem_text">Connection problem</string>
+    <string name="nothing_found_text">Nothing found</string>
+
+    <string name="settings_text">Settings</string>
+
+    <string name="settings_max_number_of_articles_label">Max articles</string>
+    <string name="settings_max_number_of_articles_key" translatable="false">max_number_of_articles</string>
+    <string name="settings_max_number_of_articles_default" translatable="false">10</string>
+
+    <string name="max_number_of_articles_toast_text">Max number of articles equals 100</string>
+</resources>

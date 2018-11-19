@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_football"
+            android:checked="true"
+            android:title="@string/menu_nav_1_text" />
+        <item
+            android:id="@+id/nav_games"
+            android:title="@string/menu_nav_2_text" />
+        <item
+            android:id="@+id/nav_fashion"
+            android:title="@string/menu_nav_3_text" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/settings"
+            android:title="@string/settings_text"/>
+    </group>
+
+</menu>
