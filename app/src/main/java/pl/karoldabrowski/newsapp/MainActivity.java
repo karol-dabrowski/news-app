@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity
         NavigationView.OnNavigationItemSelectedListener {
 
     private static final String API_KEY = "";
-    private static final String API_URL = "";
+    private static final String API_URL = "https://content.guardianapis.com/search";
 
     private TextView emptyStateTextView;
     private View progressBar;
